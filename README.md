@@ -10,6 +10,6 @@ Wiki-Lista de Links:
 https://github.com/EduardoFaiscaFerreira/Projeto1-SampaSurf-/wiki/Inicio
 
   - Relevancia para Sociedade:
-
+https://github.com/EduardoFaiscaFerreira/Projeto1-SampaSurf-/wiki/Relev%C3%A2ncia-para-Sociedade
 
   - Widgets e Telas do Prototipo:
