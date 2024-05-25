@@ -13,3 +13,4 @@ https://github.com/EduardoFaiscaFerreira/Projeto1-SampaSurf-/wiki/Inicio
 https://github.com/EduardoFaiscaFerreira/Projeto1-SampaSurf-/wiki/Relev%C3%A2ncia-para-Sociedade
 
   - Widgets e Telas do Prototipo:
+https://github.com/EduardoFaiscaFerreira/Projeto1-SampaSurf-/wiki/Widgets-(Telas)
