@@ -6,10 +6,10 @@ Um aplicativo mobile chamado SampaSurf que traz a idéia de trazer os usuarios p
 
 Wiki-Lista de Links:
 
-Inicio: https://github.com/Eduardo Faisca Ferreira/Projeto 1-SampaSurf-/wiki/Inicio
+Inicio: https://github.com/EduardoFaiscaFerreira/Projeto1-SampaSurf-/wiki/Inicio
 
-• Relevancia para Sociedade: https://github.com/Eduardo Faiscaferreira/Projeto 1- SampaSurf-/wiki/Relevância-para-Sociedade
+• Relevancia para Sociedade: https://github.com/EduardoFaiscaferreira/Projeto1-SampaSurf-/wiki/Relevância-para-Sociedade
 
-• Widgets e Telas do Prototipo: https://github.com/EduardofaiscaFerreira/Projeto 1-SampaSurf-/ask/ (Telas)
+• Widgets e Telas do Prototipo: https://github.com/EduardofaiscaFerreira/Projeto1-SampaSurf-/ask/(Telas)
 
 Projeto: 
