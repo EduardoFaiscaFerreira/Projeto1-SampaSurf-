@@ -12,4 +12,4 @@ Inicio: https://github.com/EduardoFaiscaFerreira/Projeto1-SampaSurf-/wiki/Inicio
 
 • Widgets e Telas do Prototipo: https://github.com/EduardoFaiscaFerreira/Projeto1-SampaSurf-/wiki/Widgets-(Telas)
 
-Projeto: 
+Projeto: https://github.com/EduardoFaiscaFerreira/Projeto1-SampaSurf-/blob/main/main.dart
